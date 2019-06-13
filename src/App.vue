@@ -1,7 +1,7 @@
 <template>
   <div id="app" :style="{backgroundColor: currentBackground}">
-    <star></star>
-    <button @click="change">Change</button>
+    <moon></moon>
+    <!-- <button @click="change">Change</button> -->
   </div>
 </template>
 
